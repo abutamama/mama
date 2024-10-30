@@ -1,3 +1,3 @@
 # mama
-second github
+ github
 yes yes
